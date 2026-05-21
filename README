@@ -9,8 +9,7 @@ It allows you to:
 
 1) Compute total branching fractions using numerical phase-space integration
 2) Evaluate the squared matrix element at any chosen phase-space point
-3) Use Chiral Perturbation Theory (ChPT) O(p^4) form factors.
-4) NOT PRESENT YET: Use the form factors obtained on the lattice.
+3) In this code ChPT form factors are employed.
 
 The file main.cpp is ONLY an example driver. It shows how to use the library. Please take a look at the file!!
 In normal usage, you will call the functions directly from your own code.
